@@ -4,9 +4,12 @@
     <string name="ButtonText">I\'m a button</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="textField2">Login</string>
+    <string name="Passwordtxt">Password</string>
     <string name="hint">Login Name</string>
+    <string name="password">Password</string>
     <string name="Button1">Button 1</string>
     <string name="Button2">Button 2</string>
     <string name="Switch">Enable Something</string>
     <string name="title_activity_list_items">ListItemsActivity</string>
+    <string name="LoginButton">Login</string>
 </resources>

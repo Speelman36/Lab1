@@ -12,4 +12,11 @@
     <string name="Switch">Enable Something</string>
     <string name="title_activity_list_items">ListItemsActivity</string>
     <string name="LoginButton">Login</string>
+    <string name="Start_Chat">StartChat</string>
+    <string name="title_activity_chat_window">ChatWindow</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_message_list">Messages</string>
+    <string name="title_message_detail">Message Detail</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
 </resources>
